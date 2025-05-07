@@ -8,5 +8,5 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning 
 --->
-- 💻 Programming Languages I know: C#, Python and PHP
+- 💻 Programming Languages I know: C#, Python, AppleScript and PHP
 
